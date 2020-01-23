@@ -1,0 +1,13 @@
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\Root\source\repos\server\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\Root\source\repos\server\server\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\Root\source\repos\server\server\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\Users\Root\source\repos\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\Root\source\repos\server\server\obj\Debug\netcoreapp3.1\server.pdb

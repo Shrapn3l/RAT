@@ -1,0 +1,9 @@
+C:\Users\Root\source\repos\client\client\bin\Debug\client.exe.config
+C:\Users\Root\source\repos\client\client\bin\Debug\client.exe
+C:\Users\Root\source\repos\client\client\bin\Debug\client.pdb
+C:\Users\Root\source\repos\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\client\client\obj\Debug\client.Form1.resources
+C:\Users\Root\source\repos\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Root\source\repos\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\client\client\obj\Debug\client.exe
+C:\Users\Root\source\repos\client\client\obj\Debug\client.pdb
